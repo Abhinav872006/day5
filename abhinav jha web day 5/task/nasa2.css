@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    gap: 30px;
+    border: 4px solid yellow; 
+    flex-wrap: center;
+    
+}      
+ .box{
+    width :320px;
+    height: 40vh;
+ }
+
+
+
